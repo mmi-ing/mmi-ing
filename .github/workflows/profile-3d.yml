@@ -11,6 +11,8 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
 
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
