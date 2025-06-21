@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/RPi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white"/>
 </p>
 
-![3D Profile](./profile-3d-contrib/profile-green.svg)
+![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
 
 
 
