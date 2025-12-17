@@ -2,7 +2,7 @@
   
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=mmi-ing GitHub&fontSize=90" /> -->
 
-<h3 align="center">🛠 Teck Stack 🛠</h3>
+<!-- <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
 <!--   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/> -->
@@ -21,7 +21,7 @@
 <!--   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a> -->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/RPi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white"/>
-</p>
+</p> -->
 
 ![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
 
